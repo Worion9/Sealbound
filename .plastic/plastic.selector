@@ -1,0 +1,4 @@
+repository "Card game@Worion@cloud"
+  path "/"
+    br "/main"
+    co "/main"
